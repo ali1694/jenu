@@ -3,7 +3,7 @@ public class HelloWorld
    public static void main(String[] args)
    {
      for(int i=0;i<=10;i++){
-      System.out.println("Hello, " + "world!!! " + i + /n "This is the git project");
+      System.out.println("Hello, " + "world!!! " + i +" This is the git project & thank you.");
      }
    }
 }
